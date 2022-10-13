@@ -2,37 +2,37 @@
     {
         "id": 1,
         "title": "Web Development",
-        "image": "./images/bram-naus-n8Qb1ZAkK88-unsplash.jpg",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        "image": "https://i.postimg.cc/zGfVT08s/farzad-p-x-Sl33-Wxyc-unsplash.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 2,
         "title": "App Development",
-        "image": "./images/clement-helardot-95YRwf6CNw8-unsplash.jpg",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        "image": "https://i.postimg.cc/NFzfDwgZ/fotis-fotopoulos-Du-HKo-V44prg-unsplash.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 3,
         "title": "Software Development",
-        "image": "./images/farzad-p-xSl33Wxyc-unsplash.jpg",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        "image": "https://i.postimg.cc/qMrTfRFQ/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 4,
         "title": "Python Development",
-        "image": "./images/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        "image": "https://i.postimg.cc/wTwbWjY1/joshua-aragon-FGXqbqb-Gt5o-unsplash.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 5,
         "title": "Machine Learning",
-        "image": "./images/joshua-aragon-FGXqbqbGt5o-unsplash.jpg",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        "image": "https://i.postimg.cc/prDb8nqY/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
         "id": 6,
         "title": "Backend Development",
-        "image": "./images/scott-graham-5fNmWej4tAA-unsplash.jpg",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        "image": "https://i.postimg.cc/rmNNrV5R/bram-naus-n8-Qb1-ZAk-K88-unsplash.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     }
 ]
