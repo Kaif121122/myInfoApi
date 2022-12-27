@@ -2,37 +2,37 @@
     {
         "id": 1,
         "title": "Calculator App",
-        "image": "https://postimg.cc/D4fqHKnD",
+        "image": "https://i.postimg.cc/dVFHCqph/calculator05.png",
         "description": "Calculator app using pure HTML , CSS and javaScript."
     },
     {
         "id": 2,
         "title": "Cart Page",
-        "image": "https://postimg.cc/McKqnPZw",
+        "image": "https://i.postimg.cc/2yFvNfwt/cart008.png",
         "description": "Cart landing page using pure HTML , CSS and javaScript."
     },
     {
         "id": 3,
         "title": "Personal Portfolio",
-        "image": "https://postimg.cc/MnpFRhB9",
+        "image": "https://i.postimg.cc/pVYnTRfG/portfolio009.png",
         "description": "My Personal portfolio using React with Hashrouter."
     },
     {
         "id": 4,
         "title": "Space App",
-        "image": "https://postimg.cc/hQKHYhJB",
+        "image": "https://i.postimg.cc/wj3t0NSZ/spaceapp03.png",
         "description": "Space app using React with Hashrouter and pure CSS."
     },
     {
         "id": 5,
         "title": "Sunny Landing Page",
-        "image": "https://postimg.cc/sQs6jq3P",
+        "image": "https://i.postimg.cc/mZwt4V4K/Sunnyside01.png",
         "description": "Sunny landing page using pure HTML , CSS and javaScript."
     },
     {
         "id": 6,
         "title": "Tip Splitter",
-        "image": "https://postimg.cc/94VtZ9sC",
+        "image": "https://i.postimg.cc/gJKkYcC3/tip-Splitter05.png",
         "description": "Tip splitter using pure HTML , CSS and javaScript."
     }
 ]
