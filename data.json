@@ -3,36 +3,42 @@
         "id": 1,
         "title": "Calculator App",
         "image": "https://i.postimg.cc/dVFHCqph/calculator05.png",
-        "description": "Calculator app using pure HTML , CSS and javaScript."
+        "description": "Calculator app using pure HTML , CSS and javaScript.",
+        "link":"https://calculator009.netlify.app/"
     },
     {
         "id": 2,
         "title": "Cart Page",
         "image": "https://i.postimg.cc/2yFvNfwt/cart008.png",
-        "description": "Cart landing page using pure HTML , CSS and javaScript."
+        "description": "Cart landing page using pure HTML , CSS and javaScript.",
+        "link":"https://cart005.netlify.app/"
     },
     {
         "id": 3,
         "title": "Personal Portfolio",
         "image": "https://i.postimg.cc/pVYnTRfG/portfolio009.png",
-        "description": "My Personal portfolio using React with Hashrouter."
+        "description": "My Personal portfolio using React with Hashrouter.",
+        "link":"https://portfolio-kaif.netlify.app/"
     },
     {
         "id": 4,
         "title": "Space App",
         "image": "https://i.postimg.cc/wj3t0NSZ/spaceapp03.png",
-        "description": "Space app using React with Hashrouter and pure CSS."
+        "description": "Space app using React with Hashrouter and pure CSS.",
+        "link":"https://space-react-app.netlify.app/"
     },
     {
         "id": 5,
         "title": "Sunny Landing Page",
         "image": "https://i.postimg.cc/mZwt4V4K/Sunnyside01.png",
-        "description": "Sunny landing page using pure HTML , CSS and javaScript."
+        "description": "Sunny landing page using pure HTML , CSS and javaScript.",
+        "link":"https://sunny-side-landing-page03.netlify.app/"
     },
     {
         "id": 6,
         "title": "Tip Splitter",
         "image": "https://i.postimg.cc/gJKkYcC3/tip-Splitter05.png",
-        "description": "Tip splitter using pure HTML , CSS and javaScript."
+        "description": "Tip splitter using pure HTML , CSS and javaScript.",
+        "link":"https://tip003.netlify.app/"
     }
 ]
