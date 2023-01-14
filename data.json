@@ -1,44 +1,128 @@
 [
     {
         "id": 1,
-        "title": "Calculator App",
-        "image": "https://i.postimg.cc/dVFHCqph/calculator05.png",
-        "description": "Calculator app using pure HTML , CSS and javaScript.",
-        "link":"https://calculator009.netlify.app/"
+        "type": "featured",
+        "title": "Tindog Website",
+        "image": "https://i.postimg.cc/Zq8hLWBM/tindog-07.png",
+        "description": "HTML CSS JAVASCRIPT BOOTSTRAP",
+        "link": "https://tindog06.netlify.app/",
+        "github": "https://github.com/Kaif121122/Tin-Dog-Website"
     },
     {
         "id": 2,
+        "type": "featured",
         "title": "Cart Page",
         "image": "https://i.postimg.cc/2yFvNfwt/cart008.png",
-        "description": "Cart landing page using pure HTML , CSS and javaScript.",
-        "link":"https://cart005.netlify.app/"
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://cart005.netlify.app/",
+        "github": "https://github.com/Kaif121122/new-ecommerce-design"
     },
     {
         "id": 3,
+        "type": "featured",
         "title": "Personal Portfolio",
         "image": "https://i.postimg.cc/pVYnTRfG/portfolio009.png",
-        "description": "My Personal portfolio using React with Hashrouter.",
-        "link":"https://portfolio-kaif.netlify.app/"
+        "description": "REACT HASHROUTER API",
+        "link": "https://portfolio-kaif.netlify.app/",
+        "github": "https://github.com/Kaif121122/Personal-Portfolio"
     },
     {
         "id": 4,
+        "type": "featured",
         "title": "Space App",
         "image": "https://i.postimg.cc/wj3t0NSZ/spaceapp03.png",
-        "description": "Space app using React with Hashrouter and pure CSS.",
-        "link":"https://space-react-app.netlify.app/"
+        "description": "REACT HASHROUTER",
+        "link": "https://space-react-app.netlify.app/",
+        "github": "https://github.com/Kaif121122/Space-app"
     },
     {
         "id": 5,
+        "type": "featured",
         "title": "Sunny Landing Page",
         "image": "https://i.postimg.cc/mZwt4V4K/Sunnyside01.png",
-        "description": "Sunny landing page using pure HTML , CSS and javaScript.",
-        "link":"https://sunny-side-landing-page03.netlify.app/"
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://sunny-side-landing-page03.netlify.app/",
+        "github": "https://github.com/Kaif121122/sunnyside-landing-page"
     },
     {
         "id": 6,
+        "type": "featured",
         "title": "Tip Splitter",
         "image": "https://i.postimg.cc/gJKkYcC3/tip-Splitter05.png",
-        "description": "Tip splitter using pure HTML , CSS and javaScript.",
-        "link":"https://tip003.netlify.app/"
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://tip003.netlify.app/",
+        "github": "https://github.com/Kaif121122/Tip-Calculator-App"
+    },
+    {
+        "id": 7,
+        "type": "common",
+        "title": "Calculator App",
+        "image": "https://i.postimg.cc/dVFHCqph/calculator05.png",
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://calculator009.netlify.app/",
+        "github": "https://github.com/Kaif121122/calculator-app"
+    },
+    {
+        "id": 8,
+        "type": "common",
+        "title": "News Hompage",
+        "image": "https://i.postimg.cc/9fVkCJ0L/news-hompage-14.png",
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://news-hompage08.netlify.app/",
+        "github": "https://github.com/Kaif121122/New-Homepage-Project"
+    },
+    {
+        "id": 9,
+        "type": "common",
+        "title": "Crowdfund Hompage",
+        "image": "https://i.postimg.cc/3wRckWjG/crowdfunding-13.png",
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://crowdfund007.netlify.app/",
+        "github": "https://github.com/Kaif121122/crowd-funding-page"
+    },
+    {
+        "id": 10,
+        "type": "common",
+        "title": "Advice Generator",
+        "image": "https://i.postimg.cc/SR7rTp7q/advice-generator-08.png",
+        "description": "HTML CSS JAVASCRIPT API",
+        "link": "https://advice-generator05.netlify.app/",
+        "github": "https://github.com/Kaif121122/Advice-Generator-"
+    },
+    {
+        "id": 11,
+        "type": "common",
+        "title": "Movies IMDB",
+        "image": "https://i.postimg.cc/T19VjJf3/movies-09.png",
+        "description": "REACT API",
+        "link": "https://movies004.netlify.app/",
+        "github": "https://github.com/Kaif121122/Movie-web-Api"
+    },
+    {
+        "id": 12,
+        "type": "common",
+        "title": "Tech News",
+        "image": "https://i.postimg.cc/Mp4yYT2V/tech-news-10.png",
+        "description": "REACT API",
+        "link": "https://tech-news03.netlify.app/",
+        "github": "https://github.com/Kaif121122/Tech-News-App"
+    },
+    {
+        "id": 13,
+        "type": "common",
+        "title": "Blogr Homepage",
+        "image": "https://i.postimg.cc/bwGndhDJ/blogr-11.png",
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://blogr02.netlify.app/",
+        "github": "https://github.com/Kaif121122/Blogr-landing-page"
+    },
+    {
+        "id": 14,
+        "type": "common",
+        "title": "Multi Step Form",
+        "image": "https://i.postimg.cc/Kcq4TWyg/personal-form-12.png",
+        "description": "HTML CSS JAVASCRIPT",
+        "link": "https://multi-step01.netlify.app/",
+        "github": "https://github.com/Kaif121122/Multi-step-form"
     }
 ]
