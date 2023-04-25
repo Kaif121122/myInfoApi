@@ -2,6 +2,78 @@
     {
         "id": 1,
         "type": "featured",
+        "title": "Ecommerce Website",
+        "image": "https://i.postimg.cc/ZYBk6DH9/ecommerce0015.png",
+        "description": "REACT  HASHROUTER  API",
+        "link": "https://e-commerce0015.netlify.app/",
+        "github": "https://github.com/Kaif121122/ReactEcom"
+    },
+    {
+        "id": 2,
+        "type": "featured",
+        "title": "Shortly Landing Page",
+        "image": "https://i.postimg.cc/ZRvfvXm4/url-Shrotener-Api0017.png",
+        "description": "REACT  API",
+        "link": "https://shortly-landing-page0021.netlify.app/",
+        "github": "https://github.com/Kaif121122/url-shortening-api"
+    },
+    {
+        "id": 3,
+        "type": "featured",
+        "title": "Bookmark Landing Page",
+        "image": "https://i.postimg.cc/QMwmDSTP/bookmark0016.png",
+        "description": "REACT  CSS",
+        "link": "https://bookmark-landing-page0022.netlify.app/",
+        "github": "https://github.com/Kaif121122/bookmark-landing-page"
+    },
+    {
+        "id": 4,
+        "type": "featured",
+        "title": "Insure Landing Page",
+        "image": "https://i.postimg.cc/65njpSKv/insure0018.png",
+        "description": "REACT  CSS",
+        "link": "https://insure-landing-page0020.netlify.app/",
+        "github": "https://github.com/Kaif121122/insure-landing-page"
+    },
+    {
+        "id": 5,
+        "type": "featured",
+        "title": "Manage Landing Page",
+        "image": "https://i.postimg.cc/MGTmV3Ct/manage0019.png",
+        "description": "REACT  CSS",
+        "link": "https://manage-landing-page0019.netlify.app/",
+        "github": "https://github.com/Kaif121122/manage-landing-page"
+    },
+    {
+        "id": 6,
+        "type": "featured",
+        "title": "Easy Landing Page",
+        "image": "https://i.postimg.cc/RZC7xbZ9/easy0020.png",
+        "description": "REACT  CSS",
+        "link": "https://easybank-landing-page0018.netlify.app/",
+        "github": "https://github.com/Kaif121122/easy-bank-landing-page"
+    },
+    {
+        "id": 7,
+        "type": "common",
+        "title": "Room Home Page",
+        "image": "https://i.postimg.cc/1X9tV2T3/room0021.png",
+        "description": "REACT  CSS",
+        "link": "https://room-homepage0017.netlify.app/",
+        "github": "https://github.com/Kaif121122/room-homepage"
+    },
+    {
+        "id": 8,
+        "type": "common",
+        "title": "Loop Landing Page",
+        "image": "https://i.postimg.cc/nh6hGC55/loop0022.png",
+        "description": "REACT  CSS",
+        "link": "https://loop-landing-page0016.netlify.app/",
+        "github": "https://github.com/Kaif121122/Loopstudio-Landing-Page"
+    },
+    {
+        "id": 9,
+        "type": "common",
         "title": "Tindog Website",
         "image": "https://i.postimg.cc/Zq8hLWBM/tindog-07.png",
         "description": "HTML  CSS  JAVASCRIPT  BOOTSTRAP",
@@ -9,8 +81,8 @@
         "github": "https://github.com/Kaif121122/Tin-Dog-Website"
     },
     {
-        "id": 2,
-        "type": "featured",
+        "id": 10,
+        "type": "common",
         "title": "Cart Page",
         "image": "https://i.postimg.cc/2yFvNfwt/cart008.png",
         "description": "HTML  CSS  JAVASCRIPT",
@@ -18,8 +90,8 @@
         "github": "https://github.com/Kaif121122/new-ecommerce-design"
     },
     {
-        "id": 3,
-        "type": "featured",
+        "id": 11,
+        "type": "common",
         "title": "Personal Portfolio",
         "image": "https://i.postimg.cc/pVYnTRfG/portfolio009.png",
         "description": "REACT  HASHROUTER  API",
@@ -27,8 +99,8 @@
         "github": "https://github.com/Kaif121122/Personal-Portfolio"
     },
     {
-        "id": 4,
-        "type": "featured",
+        "id": 12,
+        "type": "common",
         "title": "Space App",
         "image": "https://i.postimg.cc/wj3t0NSZ/spaceapp03.png",
         "description": "REACT  HASHROUTER",
@@ -36,8 +108,8 @@
         "github": "https://github.com/Kaif121122/Space-app"
     },
     {
-        "id": 5,
-        "type": "featured",
+        "id": 13,
+        "type": "common",
         "title": "Sunny Landing Page",
         "image": "https://i.postimg.cc/mZwt4V4K/Sunnyside01.png",
         "description": "HTML  CSS  JAVASCRIPT",
@@ -45,8 +117,8 @@
         "github": "https://github.com/Kaif121122/sunnyside-landing-page"
     },
     {
-        "id": 6,
-        "type": "featured",
+        "id": 14,
+        "type": "common",
         "title": "Tip Splitter",
         "image": "https://i.postimg.cc/gJKkYcC3/tip-Splitter05.png",
         "description": "HTML  CSS  JAVASCRIPT",
@@ -54,7 +126,7 @@
         "github": "https://github.com/Kaif121122/Tip-Calculator-App"
     },
     {
-        "id": 7,
+        "id": 15,
         "type": "common",
         "title": "Calculator App",
         "image": "https://i.postimg.cc/dVFHCqph/calculator05.png",
@@ -63,7 +135,7 @@
         "github": "https://github.com/Kaif121122/calculator-app"
     },
     {
-        "id": 8,
+        "id": 16,
         "type": "common",
         "title": "News Hompage",
         "image": "https://i.postimg.cc/9fVkCJ0L/news-hompage-14.png",
@@ -72,7 +144,7 @@
         "github": "https://github.com/Kaif121122/New-Homepage-Project"
     },
     {
-        "id": 9,
+        "id": 17,
         "type": "common",
         "title": "Crowdfund Hompage",
         "image": "https://i.postimg.cc/3wRckWjG/crowdfunding-13.png",
@@ -81,7 +153,7 @@
         "github": "https://github.com/Kaif121122/crowd-funding-page"
     },
     {
-        "id": 10,
+        "id": 18,
         "type": "common",
         "title": "Advice Generator",
         "image": "https://i.postimg.cc/SR7rTp7q/advice-generator-08.png",
@@ -90,7 +162,7 @@
         "github": "https://github.com/Kaif121122/Advice-Generator-"
     },
     {
-        "id": 11,
+        "id": 19,
         "type": "common",
         "title": "Movies IMDB",
         "image": "https://i.postimg.cc/T19VjJf3/movies-09.png",
@@ -99,7 +171,7 @@
         "github": "https://github.com/Kaif121122/Movie-web-Api"
     },
     {
-        "id": 12,
+        "id": 20,
         "type": "common",
         "title": "Tech News",
         "image": "https://i.postimg.cc/Mp4yYT2V/tech-news-10.png",
@@ -108,7 +180,7 @@
         "github": "https://github.com/Kaif121122/Tech-News-App"
     },
     {
-        "id": 13,
+        "id": 21,
         "type": "common",
         "title": "Blogr Homepage",
         "image": "https://i.postimg.cc/bwGndhDJ/blogr-11.png",
@@ -117,7 +189,7 @@
         "github": "https://github.com/Kaif121122/Blogr-landing-page"
     },
     {
-        "id": 14,
+        "id": 22,
         "type": "common",
         "title": "Multi Step Form",
         "image": "https://i.postimg.cc/Kcq4TWyg/personal-form-12.png",
