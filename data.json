@@ -1,5 +1,14 @@
 [
     {
+        "id": 0,
+        "type": "featured",
+        "title": "Auth Todo App",
+        "image": "https://i.postimg.cc/fLpFPmYn/todo-img.png",
+        "description": "USING MERN",
+        "link": "https://auth-todo-app.netlify.app/",
+        "github": "https://github.com/Kaif121122/todo_auth_frontend"
+    },
+    {
         "id": 1,
         "type": "featured",
         "title": "Ecommerce Website",
